@@ -1,6 +1,6 @@
 # Identicon
 
-**Creates a 5x5 image similar to the default githup profile picture**
+**Creates a 5x5 image similar to the default github profile picture**
 
 ## Installation
 
