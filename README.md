@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**Creates a 5x5 image similar to the default githup profile picture**
 
 ## Installation
 
